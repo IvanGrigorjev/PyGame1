@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa26f0a-75a1-4b8d-b7dd-c7f1eb4231d1" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/Hello Pygame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyGame1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyGame1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cfa26f0a-75a1-4b8d-b7dd-c7f1eb4231d1" name="Changes" comment="Add example1">
+      <change afterPath="$PROJECT_DIR$/Кирпичи.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Крест.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Мишень.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Прямоугольник.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ромбики.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сфера.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шахматная клетка.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello Pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello Pygame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "IvanGrigorjev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IvanGrigorjev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/IvanGrigorjev/PyGame1.git",
-    "accountId": "a483671e-4d21-4468-b659-31ff27eb2dcc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IvanGrigorjev/PyGame1.git&quot;,
+    &quot;accountId&quot;: &quot;a483671e-4d21-4468-b659-31ff27eb2dcc&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2rFNzAgy9lGoPQdnhlTfF1ubmFw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,6 +56,13 @@
   "keyToString": {
     "Python.Hello Pygame.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.Кирпичи.executor": "Run",
+    "Python.Крест.executor": "Run",
+    "Python.Мишень.executor": "Run",
+    "Python.Прямоугольник.executor": "Run",
+    "Python.Ромбики.executor": "Run",
+    "Python.Сфера.executor": "Run",
+    "Python.Шахматная клетка.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -103,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736151252480</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add example1">
+      <option name="closed" value="true" />
+      <created>1736154441142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736154441142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,17 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Add example1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add example1" />
   </component>
 </project>

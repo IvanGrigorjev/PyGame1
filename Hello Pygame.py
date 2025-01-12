@@ -3,8 +3,9 @@ import pygame
 
 def draw(screen):
     screen.fill((0, 0, 0))
-    font = pygame.font.Font(None, 50)
-    text = font.render("Hello, Pygame!", True, (100, 255, 100))
+    font = pygame.font.Font(None, 70)
+    color = pygame.Color('#ffcc00')
+    text = font.render("Hello, Pygame!", True, color)
     text_x = width // 2 - text.get_width() // 2
     text_y = height // 2 - text.get_height() // 2
     text_w = text.get_width()
